@@ -8,9 +8,9 @@ from datetime import datetime
 
 # 👉 KONFIGURACJA
 URL = 'https://www.olx.pl/nieruchomosci/regietow/?search%5Bdist%5D=15&search%5Border%5D=created_at:desc'
-EMAIL_OD = 'twojemail@gmail.com'
-EMAIL_HASLO = 'twojehasloaplikacji'  # Hasło aplikacji Gmail, nie zwykłe!
-EMAIL_DO = 'adresdociebie@example.com'
+EMAIL_OD = 'boguszto@gmail.com'
+EMAIL_HASLO = 'tkyt jzfd xzwe uryi'  # Hasło aplikacji Gmail, nie zwykłe!
+EMAIL_DO = 'boguszto@gmail.com'
 
 
 # 👉 WYSYŁKA MAILA
